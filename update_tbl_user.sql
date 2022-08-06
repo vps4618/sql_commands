@@ -1,0 +1,1 @@
+UPDATE tbl_user SET username = 'senudi',password = '4618',name = 'Senudi' WHERE user_id = 3;

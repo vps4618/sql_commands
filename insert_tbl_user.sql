@@ -1,0 +1,1 @@
+INSERT INTO tbl_user (user_id,username,password,name) VALUES ('3','vishwa','123','Praveen');
